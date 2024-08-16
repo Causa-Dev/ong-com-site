@@ -21,7 +21,13 @@ Estamos sempre em busca de voluntários entusiasmados para se juntarem a nós. S
 - **Desenvolvedores Juniores:** Aprenda, construa e cresça. Contribua para um projeto real que fará a diferença no mundo. Adicione experiência significativa ao seu portfólio!
 - **Patrocinadores e Padrinhos:** Ajude a manter o projeto vivo. Seu apoio pode proporcionar a expansão dessa iniciativa, permitindo que mais ONGs se beneficiem de nossos serviços.
 
-No momento não temos nenhuma ONG com um site em desenvolvimento por aqui, mas deixe seu contato caso queira ser avisado quando tivermos novidades no projeto ONG com Site. [Formulário de Interesse](https://forms.gle/uKbbGUrnzyjHGnon9)
+Atualmente estamos desenvolvendo o site para a ONG De Bico Cheio, uma iniciativa que cuida de aves de vida livre, provendo cuidados e alimento todos os dias para centenas de aves livre na cidade se São Paulo.
+
+Acompanhe o trabalho deles no Intagram: https://www.instagram.com/pliniothebird/
+Acompanhe o desenvolvimento do site deles no nosso repositório: https://github.com/Causa-Dev/ong-de-bico-cheio
+
+Se você tem interesse em fazer um site institucional totalmente gratuito para a sua ONG, preencha o nosso formulário de interesse, ou se conhece uma organização que possa se interessar, mande o nosso ofrmulário para eles!
+[Formulário de Interesse](https://forms.gle/uKbbGUrnzyjHGnon9)
 
 ## Sobre o Causa Dev
 
